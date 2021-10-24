@@ -1,0 +1,31 @@
+/* MEDIA ICONS */
+
+.media-icons a {
+    margin: 10px;
+}
+
+.media-icons a:not(:last-child) {
+    margin: 5px;
+}
+
+/* Comment */
+.comment-box {
+    width: 80%;
+    align-items: center;
+}
+
+.comment-box h2 {
+    margin: auto;
+    margin-left: 40px;
+    margin-bottom: 20px;
+}
+
+/* textarea {
+    width: 70%;
+} */
+
+.comment-box button {
+    padding: 8px;
+    margin-left: 50px;
+    margin-top: 10px;
+}
